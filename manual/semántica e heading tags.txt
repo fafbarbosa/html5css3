@@ -18,3 +18,4 @@
 validator.w3.org
 jigsaw.w3.org
 https://jigsaw.w3.org/css-validator/
+unicode.org/charts/
