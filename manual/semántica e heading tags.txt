@@ -14,3 +14,7 @@
 <h4> Subtítulo nível 4 </h4>
 <h5> Subtítulo nível 5 </h5>
 <h6> Subtítulo nível 6 </h6>
+
+validator.w3.org
+jigsaw.w3.org
+https://jigsaw.w3.org/css-validator/
