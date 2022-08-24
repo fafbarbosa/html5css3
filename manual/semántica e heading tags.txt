@@ -19,3 +19,14 @@ validator.w3.org
 jigsaw.w3.org
 https://jigsaw.w3.org/css-validator/
 unicode.org/charts/
+extensão vscode para css: Live Server
+
+CSS Flexbox:
+flex-start -> Colunas alinhada a esquerda;
+flex-end ->  Colunas alinhada a direita;
+center ->  Colunas alinhada ao centro;
+space-between ->  Colunas vão se posicionar ao longo da linha com equilibrio de spaços entre elas;
+space-around -> spaço é proposional ao elemento;
+space-evenly -> spaço uniforme entre os elementos
+
+
